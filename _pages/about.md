@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Thanks for hopping in, this is Ritish, a sophomore Master's in Sceince & Technology (MSc(tech)) student in Engineering Physics with electronics specialization at NIT Warangal. 
+Hi there! Thanks for hopping in, this is Ritish, a sophomore Master's in Sceince & Technology student in Engineering Physics with electronics specialization at NIT Warangal. 
 
-My current work focuses on designing of faster and area efficient hybrid SRAM cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender, Dept. of ECE, NIT W.
+My current work focuses on designing of faster and area efficient hybrid SRAM cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender sir.
 
-I am a passionate and work-driven personnel with intent to contribute to the semiconducter industry. My interest lies in physical designing of chips considering from placement-Routing to physical synthesis and verification. 
+I am a passionate and work-driven personnel with intent of contributing to the semiconducter industry. 
 
-Further, I am a VLSI technology enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling with hsving a strong knowledge on semiconducter device physics and digital electronics.
+I am a VLSI technology enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling with hsving a strong knowledge on semiconducter device physics and digital electronics.
+
+Further, My interest lies in physical designing of chips considering from placement-Routing to physical synthesis and verification. 
 
 A data-driven personal website
 ======
