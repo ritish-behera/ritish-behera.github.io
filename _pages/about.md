@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "If everything you try works, you aren't trying hard enough. - Gordon Moore"
+title: "\"If everything you try works, you aren't trying hard enough.\" - Gordon Moore"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,9 @@ Hi there! Thanks for hopping in, this is Ritish, a sophomore Master's in Sceince
 
 My current work focuses on designing of faster and area efficient hybrid SRAM cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender, Dept. of ECE, NIT W.
 
-I would like to contribute to the semiconducter industry more specifically to the VLSI technology emphasizing on memory devices,layout designs, interconnect and parasitic modelling with hsving a strong knowledge on device physics and digital electronics.
+I am a passionate and work-driven personnel with intent to contribute to the semiconducter industry. My interest lies in physical designing of chips considering from placement-Routing to physical synthesis and verification. 
+
+Further, I am a VLSI technology enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling with hsving a strong knowledge on semiconducter device physics and digital electronics.
 
 A data-driven personal website
 ======
