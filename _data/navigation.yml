@@ -12,11 +12,13 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  #- title: "Blog Post"
+   # url: /year-archive/
+
+  - title: "Certifications"
+    url: /markdown/
+
   - title: "CV"
     url: /files/Ritish_Behera_Resume.pdf
     
-  #- title: "Guide"
-  #  url: /markdown/
+  
