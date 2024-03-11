@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src='/images/Hybrid6TSRAMLayout3D.png' style="width: 100%;">
+        <img src='/images/MoS2_Si_SRAMGithub.png' style="width: 100%;">
         <figcaption style="text-align: center;">Figure 1: Description of the first image</figcaption>
     </figure>
     <figure>
