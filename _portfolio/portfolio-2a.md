@@ -1,6 +1,6 @@
 ---
 title: "Traditional and Thin Cell Layout Design of 6T SRAM Cell"
-excerpt: "<br/><img src='/images/6TSRAMLayout1 (1).png' style='width: 200px;'>"
+excerpt: "<br/><img src='/images/6TSRAMLayout1 (1).png' style='width: 275px;'>"
 collection: portfolio
 ---
 Replicated the layout design of traditional and thin cell SRAM cells using Virtuoso
