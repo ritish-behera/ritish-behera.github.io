@@ -1,6 +1,6 @@
 ---
 title: "VLSI Design Flow: RTL to GDS"
-excerpt: "NPTEL<br/><img src='/images/VLSI Design Flow_ RTL to GDS_page-0001.png' style='width: 400px;'>"
+excerpt: "NPTEL<br/><img src='/images/VLSI_Design Flow_ RTL_to_GDS_page-0001.png' style='width: 400px;'>"
 collection: 
 ---
 
