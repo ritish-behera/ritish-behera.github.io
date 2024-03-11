@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/6TSRAMLayout1 (1).png' style='width: 150px;'>"
 collection: portfolio
 ---
 Replicated the layout design of traditional and thin cell SRAM cells using Virtuoso
-Layout XL environment with successful DRC and LVS checks. Process node 180nm.
+Layout XL environment with successful DRC and LVS checks.
 
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
