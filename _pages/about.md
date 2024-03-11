@@ -17,7 +17,7 @@ Further, My interest lies in physical designing of chips considering from placem
 
 About My Course
 ======
-The course MSc(tech) engineering physics provides a comprehensive blend of physics and its technological aspects bridging the gap between engineers and physicist.It offers specializations in electronics and photonics. The elctronics specialization includes the VLSI domain as well as embedded system domain by providing courses like digital & analog electronics, digital circuit designing through verilog as well as hands on experience with 8086 microprocessor and fpga boards. For a more detailed view you can check [Department of Physics, NIT Warangal](https://nitw.ac.in/physics)
+The course MSc(tech) engineering physics provides a comprehensive blend of physics and its technological aspects bridging the gap between engineers and physicist. It offers specializations in electronics and photonics. The elctronics specialization includes the VLSI domain as well as embedded system domain by providing courses like digital & analog electronics, digital circuit designing through verilog as well as hands on experience with 8086 microprocessor and FPGA boards. For a more detailed view you can check [Department of Physics, NIT Warangal](https://nitw.ac.in/physics)
 
 My Skills
 ======
@@ -25,7 +25,4 @@ My Skills
 1. LANGUAGES : Verilog HDL, C++, Perl, Matlab
 1. ENVIRONMENTS: Windows, Linux (Ubuntu)
 1. HANDS-ON: 8086 Microprocessor, Artix 7 Pro FPGA Board 
-
-#Site-wide configuration
-#------
 
