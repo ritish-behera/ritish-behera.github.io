@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Circuit Simulation of Heterogeneous 6T SRAM Featuring MoS2-
+FET based Pass Transistor"
+excerpt: "Summer Internship, IIT Gandhinagar<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The research work involved designing of a heterogeneous 6T SRAM cell consisting of Si cross-coupled inverter on the FEOL level and MoS2-FET based pass
+transistor to be implemented on the BEOL level. Using cadence virtuoso tool, I
+carried out circuit simulations for noise margin (read, write and hold) calculation
+of the hybrid cell and further explored some potential solutions for interconnect
+and parasitic modelling to describe the integration.
+The project report can be viewed here /files/Analysis_of_Vertical_BEOL_integration_of_2DM_based_pass_transistor_of_a_6T_SRAM.pdf .
