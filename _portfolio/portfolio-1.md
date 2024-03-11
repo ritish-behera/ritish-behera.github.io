@@ -6,11 +6,11 @@ collection: portfolio
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
         <img src='/images/MoS2_Si_SRAMGithub.png' style="width: 100%;">
-        <figcaption style="text-align: center;">Figure 1: Description of the first image</figcaption>
+        <figcaption style="text-align: center;">Hybrid 6T SRAM Schematic</figcaption>
     </figure>
     <figure>
         <img src='/images/2D_SRAM_LayoutGithub.png' style="width: 100%;">
-        <figcaption style="text-align: center;">Figure 2: Description of the second image</figcaption>
+        <figcaption style="text-align: center;">2D Layout Model</figcaption>
     </figure>
 </div>
 
