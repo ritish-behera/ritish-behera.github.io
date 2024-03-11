@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ritish's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ritish Behera"
 description              : &description "Applied Physics and VLSI Enthusiast"
