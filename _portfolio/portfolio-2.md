@@ -1,10 +1,12 @@
 ---
 title: "Noise Margin Analysis of 6T SRAM Cell in Latest UMC28nm Technology Node"
-excerpt: "IIT Gandhinagar<br/><img src='/images/SRAM_umc28.png' style='width: 400px;'>"
+excerpt: "<br/><img src='/images/SRAM_umc28.png' style='width: 400px;'>"
 collection: portfolio
 ---
 
-UMC's 28nm technology node features high performance, leveraging a high-k/metal gate stack for enhanced transistor performance and power efficiency.
+The UMC's 28nm technology node features high performance, leveraging a high-k/metal gate stack for enhanced transistor performance and power efficiency.
+I designed a 6T SRAM cell using this technology node and hence carried out simulation for the calculation of noise margins through butterfly curves.The read 
+and write noise margins were found out to be 116mV and 303mV respectively at a supply voltage range of 900mV.
 
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
