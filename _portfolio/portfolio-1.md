@@ -4,8 +4,8 @@ excerpt: "Summer Internship, IIT Gandhinagar <br/><img src='/images/Hybrid6TSRAM
 collection: portfolio
 ---
 <div style="display: flex; justify-content: center;">
-    <img src='/images/500x300.png' style="width: 50%; margin-right: 10px;">
-    <img src='/images/500x300.png' style="width: 50%;">
+    <img src='/images/MoS2_Si_SRAMGithub.png' style="width: 50%; margin-right: 10px;">
+    <img src='/images/2D_SRAM_LayoutGithub.png' style="width: 50%;">
 </div>
 
 The research work involved designing of a heterogeneous 6T SRAM cell consisting of Si cross-coupled inverter on the FEOL level and MoS2-FET based pass
