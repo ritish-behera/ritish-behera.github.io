@@ -11,9 +11,9 @@ Hi there! Thanks for hopping in, this is Ritish, a sophomore Master's in Sceince
 
 My current work focuses on designing of faster and area efficient hybrid SRAM cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender sir. 
 
-I am a VLSI technology enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling with having a strong knowledge on device physics and digital electronics.
+I am a VLSI technology enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling with having a strong understanding of complete RTL to GDS flow of VLSI design. Moreover, I have a strong grasp on digital electronics,analog electronics and device physics as well.
 
-Further, My interest lies in physical designing of chips considering from placement-Routing to physical synthesis and verification, contributing to the semiconduter industry. 
+Further, My interest lies in physical designing of chips considering from placement-Routing to physical synthesis and verification as well as clock tree synthesis and layout designing. 
 
 About My Course
 ======
