@@ -1,6 +1,6 @@
 ---
 title: "SIMULINK Onramp"
-excerpt: "Mathworks<br/><img src='/images/VLSI Design Flow_ RTL to GDS_page-0001.png' style='width: 400px;'>"
+excerpt: "Mathworks<br/><img src='/images/Simulink_Onramp_certificate_page-0001' style='width: 400px;'>"
 collection: 
 ---
 
