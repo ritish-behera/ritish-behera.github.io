@@ -1,6 +1,6 @@
 ---
 title: "MATLAB Fundamentals"
-excerpt: "Mathworks<br/><img src='/images/MATLAB_Fundamentals_certificate_page-0001.png' style='width: 400px;'>"
+excerpt: "Mathworks<br/><img src='/images/MATLAB_Fundamentals_certificate_page-0001.jpg' style='width: 400px;'>"
 collection: 
 ---
 
