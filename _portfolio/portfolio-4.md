@@ -13,7 +13,7 @@ collection: portfolio
         <figcaption style="text-align: center;">Variable Capacitance Subsystem Circuit</figcaption>
     </figure>
 </div>
-A  [here](https://drive.google.com/file/d/1azds4rzirIcjaDHJnHBlxOdda0ia1ksT/view?usp=sharing) . is an energy-harvesting device that converts mechanical energy into electricity using the triboelectric effect i.e. frictional effect.
+A  triboelectric nanogenerator is an energy-harvesting device that converts mechanical energy into electricity using the triboelectric effect i.e. frictional effect.
 In this project, I modeled a feasible circuit for a TENG device implementing a variable capacitance sub-circuit which represented the actual behaviour of charge 
 storage and movement during the current generation process. Tool Used: SIMULINK
 
