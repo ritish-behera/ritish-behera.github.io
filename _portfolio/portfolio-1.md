@@ -1,6 +1,6 @@
 ---
 title: "Circuit Simulation of Heterogeneous 6T SRAM Featuring MoS2-FET based Pass Transistor"
-excerpt: "Summer Internship, IIT Gandhinagar <br/><img src='/images/Hybrid6TSRAMLayout3D.png' style='width: 300px;>"
+excerpt: "Summer Internship, IIT Gandhinagar <br/><img src='/images/Hybrid6TSRAMLayout3D.png' style='width: 300px;'>"
 collection: portfolio
 ---
 <div style="display: flex; justify-content: center;">
