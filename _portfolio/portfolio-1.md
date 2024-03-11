@@ -10,4 +10,4 @@ transistor to be implemented on the BEOL level. Using cadence virtuoso tool, I
 carried out circuit simulations for noise margin (read, write and hold) calculation
 of the hybrid cell and further explored some potential solutions for interconnect
 and parasitic modelling to describe the integration.
-The project report can be viewed here /files/Analysis_of_Vertical_BEOL_integration_of_2DM_based_pass_transistor_of_a_6T_SRAM.pdf .
+The project report can be viewed [here] (/files/Analysis_of_Vertical_BEOL_integration_of_2DM_based_pass_transistor_of_a_6T_SRAM.pdf) .
