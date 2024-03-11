@@ -1,21 +1,8 @@
 ---
-title: "Analysis of CMOS Inverter in GPDK180nm Technology Node"
+title: "Digital Circuits Design Using DEEDs"
 excerpt: "NIT Warangal <br/><img src='/images/Inv_Schematic180nm.png' style='width: 400px;'>"
 collection: portfolio
 ---
-<div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src='/images/MoS2_Si_SRAMGithub.png' style="width: 100%;">
-        <figcaption style="text-align: center;">Figure 1: Description of the first image</figcaption>
-    </figure>
-    <figure>
-        <img src='/images/2D_SRAM_LayoutGithub.png' style="width: 100%;">
-        <figcaption style="text-align: center;">Figure 2: Description of the second image</figcaption>
-    </figure>
-</div>
+Basically, it's a lab report of our coursework where I designed almost all the digital circuits, starting from combinational circuits like HA, FA, BCD Adder, 7-Bit Hamming Code Detection Circuit to sequential circuits like FF, Counters, 12 & 24 hour clock using specific blocks. Tool Used: DEEDs.
 
-The research work involved designing of a heterogeneous 6T SRAM cell consisting of Si cross-coupled inverter on the FEOL level and MoS2-FET based pass
-transistor to be implemented on the BEOL level. Using cadence virtuoso tool, I carried out circuit simulations for noise margin (read, write and hold) calculation
-of the hybrid cell and further explored some potential solutions for interconnect and parasitic modelling to describe the integration.
-
-The project report can be viewed [here](https://drive.google.com/file/d/17pyH9LCKRdDWqO42ZnBItracrFRzeE8E/view?usp=sharing) .
+The full report can be viewed [here](https://drive.google.com/file/d/17cu_rwiRilpe6KChEe1KFGtJaTXYXHhX/view?usp=sharing)https://drive.google.com/file/d/17cu_rwiRilpe6KChEe1KFGtJaTXYXHhX/view?usp=sharing) .
