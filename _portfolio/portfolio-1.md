@@ -3,6 +3,10 @@ title: "Circuit Simulation of Heterogeneous 6T SRAM Featuring MoS2-FET based Pas
 excerpt: "Summer Internship, IIT Gandhinagar <br/><img src='/images/Hybrid6TSRAMLayout3D.png'>"
 collection: portfolio
 ---
+<div style="display: flex; justify-content: center;">
+    <img src='/images/500x300.png' style="width: 50%; margin-right: 10px;">
+    <img src='/images/500x300.png' style="width: 50%;">
+</div>
 
 The research work involved designing of a heterogeneous 6T SRAM cell consisting of Si cross-coupled inverter on the FEOL level and MoS2-FET based pass
 transistor to be implemented on the BEOL level. Using cadence virtuoso tool, I carried out circuit simulations for noise margin (read, write and hold) calculation
