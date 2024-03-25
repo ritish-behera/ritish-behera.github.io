@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="position: relative;">
-    <img src="/images/layout_lab_github.jpeg" alt="Your Image" style="position: absolute; top: 0; right: 0;">
+    <img src="/images/layout_lab_github.jpg" alt="Your Image" style="position: absolute; top: 0; right: 0;">
     Hi there! Thanks for hopping in, I am Ritish, a sophomore Master's in Sceince & Technology student in Engineering Physics with electronics specialization at NIT Warangal. 
 </div>
 
