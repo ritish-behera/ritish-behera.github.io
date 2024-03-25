@@ -5,7 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---
+---
+
 
     Hi there! Thanks for hopping in, I am Ritish, a sophomore Master's in Sceince & Technology student in Engineering Physics with electronics specialization at NIT Warangal. 
 
