@@ -6,7 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="position: relative;">
+    <img src="your_image_path.jpg" alt="Your Image" style="position: absolute; top: 0; right: 0;">
+    Your text goes here.
+</div>
 Hi there! Thanks for hopping in, I am Ritish, a sophomore Master's in Sceince & Technology student in Engineering Physics with electronics specialization at NIT Warangal. 
 
 My current work focuses on designing of faster and area efficient hybrid SRAM cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender sir. 
