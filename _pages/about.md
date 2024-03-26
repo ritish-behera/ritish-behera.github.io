@@ -35,7 +35,7 @@ Activities
 Gallery
 ======
 <div style="display:flex;">
-    <img src="/images/layout_lab_github.jpg" style="width:33.33%;" />
-    <img src="/images/microprocessor8086_github.jpg" style="width:33.33%;" />
-    <img src="/images/cro_github.jpg" style="width:33.33%;" />
+    <img src="/images/layout_lab_github.jpg" style="display:block; width:100%;"/>
+    <img src="/images/microprocessor8086_github.jpg" style="display:block; width:100%;" />
+    <img src="/images/cro_github.jpg" style="display:block; width:100%;" />
 </div>
