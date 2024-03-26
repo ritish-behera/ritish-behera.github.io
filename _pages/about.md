@@ -36,6 +36,6 @@ Gallery
 ======
 <div>
     <img src="/images/layout_lab_github.jpg" style="display:block; width:50%; height:auto ; margin-bottom:10px;"/>
-    <img src="/images/microprocessor8086_github.jpg" style="display:block; width:100%; margin-bottom:10px;" />
-    <img src="/images/cro_github.jpg" style="display:block; width:100%; margin-bottom:10px;" />
+    <img src="/images/microprocessor8086_github.jpg" style="display:block; width:50%; margin-bottom:10px;" />
+    <img src="/images/cro_github.jpg" style="display:block; width:50%; margin-bottom:10px;" />
 </div>
