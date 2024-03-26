@@ -1,6 +1,6 @@
 ---
 title: "ISWDP Sentaurus TCAD Level-1"
-excerpt: "NPTEL<br/><img src='/images/ISDWP_TCAD_Certificate.jpg.jpg' style='width: 400px;'>"
+excerpt: "NPTEL<br/><img src='/images/ISDWP_TCAD_Certificate.jpg' style='width: 400px;'>"
 collection: 
 ---
 
