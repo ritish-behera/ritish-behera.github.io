@@ -1,6 +1,6 @@
 ---
 title: "VLSI Design Flow: RTL to GDS"
-excerpt: "IISc, Banglore<br/><img src='/images/VLSI Design Flow_ RTL to GDS_page-0001.jpg' style='width: 400px;'>"
+excerpt: "NPTEL, Banglore<br/><img src='/images/VLSI Design Flow_ RTL to GDS_page-0001.jpg' style='width: 400px;'>"
 collection: 
 ---
 
