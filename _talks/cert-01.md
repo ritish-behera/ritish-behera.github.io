@@ -1,6 +1,6 @@
 ---
 title: "ISWDP Sentaurus TCAD Level-1"
-excerpt: "IISc, Banglore<br/><img src='/images/ISDWP_TCAD_Certificate.jpg' style='width: 400px;'>"
+excerpt: "IISc, Bangalore<br/><img src='/images/ISDWP_TCAD_Certificate.jpg' style='width: 400px;'>"
 collection: 
 ---
 
