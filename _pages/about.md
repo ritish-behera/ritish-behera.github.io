@@ -36,6 +36,6 @@ Gallery
 ======
 <div style="display:flex;">
     <img src="/images/layout_lab_github.jpg" style="width:33.33%;" />
-    <img src="/images/microprocessor_8086_github.jpg" style="width:33.33%;" />
-    <img src="/images/cro_github" style="width:33.33%;" />
+    <img src="/images/microprocessor8086_github.jpg" style="width:33.33%;" />
+    <img src="/images/cro_github.jpg" style="width:33.33%;" />
 </div>
