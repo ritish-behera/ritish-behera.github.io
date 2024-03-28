@@ -40,9 +40,7 @@ Thank you for your patience till this point.
 Gallery
 ======
 <div>
-    <img src="/images/microprocessor8086_github.jpg" style="display:inline-block; width:45%; margin-right:5%;" />
-    <img src="/images/cro_github.jpg" style="display:inline-block; width:45%;" />
+    <img src="/images/microprocessor8086_github.jpg" style="display:block; width:50%; height:50%; margin-bottom:10px;" />
+    <img src="/images/cro_github.jpg" style="display:block; width:50%; margin-bottom:10px;" />
 </div>
-<div>
-  <img src="/images/layout_lab_github.jpg" style="display:block; width:50%; height:auto ; margin-bottom:10px;"/>
-</div>
+
