@@ -32,10 +32,17 @@ Activities
 
   As I do have some interests in social work, I always headed to joining such group of people around like __NSS, NIT Warangal__ as well as served as a social work __intern at SAMBHAJ NGO__ during my leisure time.
 
+Summary
+======
+I am a passionate and work-driven personnel with a strong ambition to contribute to and grow within the semiconductor industry. I thrive in collaborative environments, where my team-oriented approach fosters innovation and drives results. With a keen eye for detail and a commitment to continuous learning, I aim to be a valuable asset to any semiconductor industry in the VLSI domain.
+Thank you for your patience till this point.
+
 Gallery
 ======
 <div>
-    <img src="/images/layout_lab_github.jpg" style="display:block; width:50%; height:auto ; margin-bottom:10px;"/>
-    <img src="/images/microprocessor8086_github.jpg" style="display:block; width:50%; margin-bottom:10px;" />
-    <img src="/images/cro_github.jpg" style="display:block; width:50%; margin-bottom:10px;" />
+    <img src="/images/microprocessor8086_github.jpg" style="display:inline-block; width:45%; margin-right:5%;" />
+    <img src="/images/cro_github.jpg" style="display:inline-block; width:45%;" />
+</div>
+<div>
+  <img src="/images/layout_lab_github.jpg" style="display:block; width:50%; height:auto ; margin-bottom:10px;"/>
 </div>
