@@ -39,8 +39,12 @@ Thank you for your patience till this point.
 
 Gallery
 ======
-<div>
-    <img src="/images/microprocessor8086_github.jpg" style="display:block; width:50%; height:50%; margin-bottom:10px;" />
-    <img src="/images/cro_github.jpg" style="display:block; width:50%; margin-bottom:10px;" />
+<div style="text-align: center;">
+    <img src="/images/image1.jpg" style="height: auto; max-width: 100%; margin-bottom: 10px;">
+    <img src="/images/image2.jpg" style="height: auto; max-width: 100%; margin-bottom: 10px;">
+    <img src="/images/image3.jpg" style="height: auto; max-width: 100%; margin-bottom: 10px;">
+    <img src="/images/image4.jpg" style="height: auto; max-width: 100%; margin-bottom: 10px;">
+    <img src="/images/image5.jpg" style="height: auto; max-width: 100%; margin-bottom: 10px;">
 </div>
+
 
