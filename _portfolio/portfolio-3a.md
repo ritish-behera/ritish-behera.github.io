@@ -1,6 +1,6 @@
 ---
 title: "Implemention of a 12-Hour Clock System on an FPGA Board using Verilog"
-excerpt: "<br/><img src='/images/FPGA12hourClockGithub.jpg' style='width: 400px;'>"
+excerpt: "NIT Warangal<br/><img src='/images/FPGA12hourClockGithub.jpg' style='width: 400px;'>"
 collection: portfolio
 ---
 
