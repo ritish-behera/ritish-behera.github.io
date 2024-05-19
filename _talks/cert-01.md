@@ -4,9 +4,5 @@ excerpt: "Mathworks<br/><img src='/images/MachineLearningOnramp.jpg' style='widt
 collection: 
 ---
 
-This course covered the basics of semiconducter device technology, technology CAD and TCAD based technology design workflow with
-emphasis on basic 2D device creation, device simulation and analysis. During the program, I created 2D PN junction device with appropriate
-meshing on junctions followed by the device simulation for plotting the I-V characteristics of the same. I got to use the sdevice, svisual
-and workbench environments during the process.
+Learned practical machine learning for "classification problems" in MATLAB®. Used a machine learning model that extracts information from a digital board for handwritten letters to group data into predefined categories to train the model.
 
-It was offered by Indian Intsitute of Science (IISc), Banglore in collaboration with Synopsys Inc.
