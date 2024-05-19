@@ -7,32 +7,37 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/layout_lab_github.jpg" alt="xyz" align="right" width="250">
-  Hi there! Thanks for hopping in, I am Ritish, a sophomore Master's in Sceince & Technology student in Engineering Physics with __electronics__ specialization at NIT Warangal. 
+  Hi there! Thanks for hopping in, I am Ritish, a final year Master's in Sceince & Technology student in Engineering Physics with __electronics__ specialization at NIT Warangal. 
 
   My current work focuses on designing of faster and area efficient __Hybrid SRAM__ cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender sir. 
 
   I am a __VLSI Technology__ enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling.
 
-  Further, My interest lies in __physical designing__ of chips considering from floorplan-placement-Routing to physical synthesis and verification as well as clock tree synthesis and layout designing. 
+  Further, My interest lies in __physical designing__ of chips considering from floorplan-placement-Routing to physical synthesis and verification. 
 
 Prior Experience
 ======
   I have worked as a research intern at IIT Gandhinagar during summer 2023, exploring a novel 3D SRAM cell architecture and its behaviour to noise. 
-  Moreover, 
+  Moreover, i explored different interconnect modelling techniques for memory subsytems.
 
 My Skills
 ======
+I am skilled with different programming language ranging from C++, MATLAB, Perl as well as experienced with using different leading EDA tools in the semiconducter industry like Cadence(virtuoso), Sentaurus TCAD, Xilinx Vivado.
 
+I am well used to Windows OS as well as love to explore Linux OS for the practical application purposes.
+
+Apart from this, I am recently being involved in some machine learning and reinforcement learning algorithms and models to help grow my curiosity as well as my skill set. 
 
 Activities
 ======
-  I have worked as a __Joint Secretary__ in the Physics Association at NIT Warangal, where we were organizing events and co-curricular activities as part of tech-fests like Technozian 2022. Notably, we hosted talk shows featuring distinguished alumni, including Mr. Durga Prasad Allada, Vice President of Tech Mahindra. These endeavors significantly contributed to the success of our association during that academic year.
+  I have worked as a __Joint Secretary__ in the Physics Association at NIT Warangal, where we were involved in organizing events and co-curricular activities such as tech-fests(Technozian 2022), exhibitions and talk-shows. 
 
-  As I do have some interests in social work, I always headed to joining such group of people around like __NSS, NIT Warangal__ as well as served as a social work __intern at SAMBHAJ NGO__ during my leisure time.
+  As I do like serving and being with people, I always headed to joining such group of individuals around myself. I was a part of __NSS, NIT Warangal__ as well as served as a social work __intern at SAMBHAJ NGO__ during my leisure time.
 
 Summary
 ======
-
+Indeed, I am an analytic and solution-oriented individual with a large chunk of curiosity in technology field. Apart from professional life, I love to spend my time exploring new things and new people as a hobby.
+Thank you for the patience till the end. 
 
 Gallery
 ======
