@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning onramp"
-excerpt: "Mathworks<br/><img src='/images/ReinforcementLearningonramp.jpg' style='width: 400px;'>"
+excerpt: "Mathworks<br/><img src='/images/ReinforcementLearningOnramp.jpg' style='width: 400px;'>"
 collection: 
 ---
 
