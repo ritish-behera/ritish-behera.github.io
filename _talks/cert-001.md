@@ -1,7 +1,7 @@
 ---
-title: "Machine Learning onramp"
-excerpt: "Mathworks<br/><img src='/images/MachineLearningOnramp.jpg' style='width: 400px;'>"
+title: "Reinforcement Learning onramp"
+excerpt: "Mathworks<br/><img src='/images/ReinforcementLearningonramp.jpg' style='width: 400px;'>"
 collection: 
 ---
 
-Learned practical machine learning for "classification problems" in MATLAB®. Used a machine learning model that extracts information from a digital board for handwritten letters to group data into predefined categories to train the model.
+It included the basics of creating intelligent controllers that learn from experience as well as a reinforcement learning agent is integrated into a Simulink® model, and MATLAB is used to train it to select the optimal action in a given situation.
