@@ -9,6 +9,6 @@ This course covered the entire RTL to GDS VLSI design flow, going through variou
 The complete course structure can be found [here](https://onlinecourses.nptel.ac.in/noc23_ee137/course) .
 
 <figure style="margin-right: 20px;">
-        <img src='/images/29_VSD nasscom Certificate 2024GitHub Repo certificate.jpg' style="width: 100%;">
+        <img src='/images/VLSI Design Flow_ RTL to GDS_page-0001.jpg' style="width: 100%;">
         <figcaption style="text-align: center;">Certificate</figcaption>
 </figure>
