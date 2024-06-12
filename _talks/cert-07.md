@@ -8,3 +8,7 @@ Learned core MATLAB® functionality for data analysis, visualization, modeling, 
 
 For more details you can refer [here](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) .
 
+<figure style="margin-right: 20px;">
+        <img src='/images/MATLAB_Fundamentals_certificate_page-0001.jpg' style="width: 100%;">
+        <figcaption style="text-align: center;">Certificate</figcaption>
+</figure>
