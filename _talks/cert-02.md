@@ -10,3 +10,8 @@ meshing on junctions followed by the device simulation for plotting the I-V char
 and workbench environments during the process.
 
 It was offered by Indian Intsitute of Science (IISc), Banglore in collaboration with Synopsys Inc.
+
+<figure style="margin-right: 20px;">
+        <img src='/images/29_VSD nasscom Certificate 2024GitHub Repo certificate.jpg' style="width: 100%;">
+        <figcaption style="text-align: center;">Certificate</figcaption>
+</figure>
