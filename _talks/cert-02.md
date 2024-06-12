@@ -12,6 +12,6 @@ and workbench environments during the process.
 It was offered by Indian Intsitute of Science (IISc), Banglore in collaboration with Synopsys Inc.
 
 <figure style="margin-right: 20px;">
-        <img src='/images/29_VSD nasscom Certificate 2024GitHub Repo certificate.jpg' style="width: 100%;">
+        <img src='/images/ISDWP_TCAD_Certificate.jpg' style="width: 100%;">
         <figcaption style="text-align: center;">Certificate</figcaption>
 </figure>
