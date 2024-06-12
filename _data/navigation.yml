@@ -18,7 +18,7 @@ main:
   #- title: "Markdown"
    # url: /markdown/
 
-  #- title: "CV"
-   # url: /files/Ritish_Behera_Resume.pdf
+  - title: "CV"
+    url: /files/Ritish_Behera_Resume.pdf
     
   
