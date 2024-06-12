@@ -1,6 +1,6 @@
 ---
 title: "Digital IC Design"
-excerpt: "NPTEL<br/><img src='/images/VLSI Design Flow' style='width: 400px;'>"
+excerpt: "NPTEL<br/><img src='/images/Digital IC Design_page.jpg' style='width: 400px;'>"
 collection: 
 ---
 
