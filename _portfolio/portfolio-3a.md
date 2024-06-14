@@ -12,3 +12,7 @@ Utilizing the resources of the FPGA board, the project focused on synchronizing 
 
 One significant challenge encountered was coordinating the activation of different seven-segment displays based on the current time. This was successfully addressed by dynamically enabling/disabling display segments to depict the appropriate digits at each time interval, ensuring accurate time representation.
 
+<figure style="margin-right: 20px;">
+        <img src='/images/FPGA12HourClock.jpg' style="width: 100%;">
+        <figcaption style="text-align: center;">12 Hour Digital Clock on SSD of FPGA Board</figcaption>
+</figure>
