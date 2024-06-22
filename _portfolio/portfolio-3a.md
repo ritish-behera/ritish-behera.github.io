@@ -14,3 +14,8 @@ One significant challenge encountered was coordinating the activation of differe
         <img src='/images/FPGA12HourClock.jpg' style="width: 100%;">
         <figcaption style="text-align: center;">12 Hour Digital Clock on SSD of FPGA Board</figcaption>
 </figure>
+
+<figure style="margin-right: 20px;">
+        <img src='/images/FPGA12HourClock.jpg' style="width: 100%;">
+        <figcaption style="text-align: center;">12 Hour Digital Clock on SSD of FPGA Board</figcaption>
+</figure>
