@@ -12,6 +12,9 @@ One significant challenge encountered was coordinating the activation of differe
 
 Afterwards, I have moved to use the design for tapeout through open-source Sky130nm technology node with complete RTL to GDS flow, via a project called "Tiny Tapeouts" which takes the generated GDSII file to fabricate the design on their board.
 
+Find the design files [https://drive.google.com/drive/folders/1LUMGoMlJ5kE5TtMGXvKBaiLcMPR9-IhW?usp=sharing](here) .
+
+
 Check out the GDS layout and cell information below. For a 3D view of the design please visit- [https://gds-viewer.tinytapeout.com/?model=https://ritish-behera.github.io/Tiny_Tapeout_12HourClock/tinytapeout.gds.gltf](https://gds-viewer.tinytapeout.com/?model=https://ritish-behera.github.io/Tiny_Tapeout_12HourClock/tinytapeout.gds.gltf)
 
 <figure style="margin-right: 20px;">
