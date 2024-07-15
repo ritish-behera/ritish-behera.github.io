@@ -8,7 +8,7 @@ Using Cadence layout tools, designed feasible layouts of 6T SRAM cell which invo
 
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src='/images/6T_SRAM_TraditionalLayout.png' style="width: 50%;">
+        <img src='/images/6T_SRAM_TraditionalLayout.png' style="width: 100%;">
         <figcaption style="text-align: center;">Traditional 6T SRAM Layout</figcaption>
     </figure>
     <figure>
