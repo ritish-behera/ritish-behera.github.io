@@ -5,11 +5,11 @@ collection: portfolio
 ---
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src='/images/VSD_PD_Github1.png' style="width: 100%;">
+        <img src='/images/VSD_PD_Github1.png' style="width: 75%;">
         <figcaption style="text-align: center;">Picorv32a RISC-V Processor Model</figcaption>
     </figure>
     <figure>
-        <img src='/images/VSD_PD_Github2.png' style="width: 100%;">
+        <img src='/images/VSD_PD_Github2.png' style="width: 125%;">
         <figcaption style="text-align: center;">Post-Placement Results</figcaption>
     </figure>
 </div>
@@ -35,11 +35,11 @@ The github repo can be viewed [here](https://github.com/ritish-behera/VSD-Physic
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
         <img src='/images/VSD_PD_Github5.png' style="width: 100%;">
-        <figcaption style="text-align: center;">Post-Routing Results</figcaption>
+        <figcaption style="text-align: center;">Post-Routing Results1</figcaption>
     </figure>
     <figure>
         <img src='/images/VSD_PD_Github6.png' style="width: 100%;">
-        <figcaption style="text-align: center;">Post-Routing Results with Power and Ground Rails</figcaption>
+        <figcaption style="text-align: center;">Post-Routing Results2</figcaption>
     </figure>
 </div>
 
