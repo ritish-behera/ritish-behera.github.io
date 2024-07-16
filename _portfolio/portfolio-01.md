@@ -5,7 +5,7 @@ collection: portfolio
 ---
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src='/images/VSD_PD_Github1.png' style="width: 50%;">
+        <img src='/images/VSD_PD_Github1.png' style="width: 100%;">
         <figcaption style="text-align: center;">Picorv32a RISC-V Processor Model</figcaption>
     </figure>
     <figure>
