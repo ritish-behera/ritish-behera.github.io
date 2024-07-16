@@ -1,5 +1,5 @@
 ---
-title: "Implemention of a 12-Hour Clock System on an FPGA Board using Verilog and GDS Layout Generation of the Design"
+title: "Implemention of a 12-Hour Clock System on an FPGA Board using Verilog and Custom GDS Layout Generation of the Design"
 excerpt: "NIT Warangal<br/><img src='/images/FPGA12hourClockGithub.jpg' style='width: 400px;'>"
 collection: portfolio
 ---
