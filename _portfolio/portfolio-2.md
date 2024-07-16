@@ -1,9 +1,9 @@
 ---
-title: "Traditional and Thin Cell Layout Design of 6T SRAM Cell using 22nm FinFET Technology Node"
+title: "6T SRAM Analysis and Layout Design (Traditional and Thin Cell) With DRC and LVS Verification using 22nm FinFET Technology"
 excerpt: "<br/><img src='/images/6T_SRAM_TraditionalLayout.png' style='width: 275px;'>"
 collection: portfolio
 ---
-Using Cadence layout tools, designed feasible layouts of 6T SRAM cell which involved traditional layout as well as latest area efficient thin cell layout of the design. All the DRC rules were followed according to the 22nm FinFET technology node which provides better area efficiency and lower leakage currents as compared to the planar FETs due to its Fin like structures.
+Designed and analyzed (DC, Transient, Noise, Power) a 6T SRAM cell with traditional and area efficient thin cell layout generation following the DRC rules according to the 22nm FinFET technology which provides better area efficiency and lower leakage currents as compared to the planar FETs due to its Fin like structures.
 
 
 <div style="display: flex; justify-content: center;">
