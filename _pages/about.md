@@ -7,37 +7,42 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/layout_lab_github.jpg" alt="xyz" align="right" width="250">
-  Hi there! Thanks for hopping in, I am Ritish, a final year Master's in Sceince & Technology student in Engineering Physics with __electronics__ specialization at NIT Warangal. 
+  Hi there! Thanks for hopping in, I am Ritish, a final year Master's in Sceince & Technology student in Engineering Physics with __Electronics__ specialization at National Institute of Technology Warangal, India. 
 
-  My current work focuses on designing of faster and area efficient __Hybrid SRAM__ cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narender sir. 
+  My current work focuses on design and characterization of faster and area efficient __3D Hybrid SRAM__ cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narendar sir. 
 
-  I am a __VLSI Technology__ enthusiast emphasizing on memory devices,layout designs, interconnect and parasitic modelling.
+  I am a __VLSI Technology__ enthusiast bearing research interests on advance CMOS technology, state-of-the-art memory devices, interconnect & parasitic modelling .
 
-  Further, My interest lies in __physical designing__ of chips considering from floorplan-placement-Routing to physical synthesis and verification. 
+  I am actively engaged in __backend design flow__ of VLSI design through __open-source__ tools considering physical design and optimizations of the processors.   
 
 Prior Experience
 ======
-  I have worked as a research intern at IIT Gandhinagar during summer 2023, exploring a novel 3D SRAM cell architecture and its behaviour to noise. 
-  Moreover, i explored different interconnect modelling techniques for memory subsytems.
+  I have worked as a research intern in a team at IIT Gandhinagar, exploring feasibility of a novel 3D SRAM cell architecture involving BEOL integration and its impact on performance metrics of the cell. 
+  Moreover, i explored different interconnect modelling techniques for memory subsystems.
 
-My Skills
+My Expertise
 ======
-I am skilled with different programming language ranging from C++, MATLAB, Perl as well as experienced with using different leading EDA tools in the semiconducter industry like Cadence(virtuoso), Sentaurus TCAD, Xilinx Vivado.
+I am skilled with different programming language ranging from C++, MATLAB, TCL as well as experienced with using different leading EDA tools in the semiconducter industry such as Cadence(virtuoso), Sentaurus TCAD, Xilinx Vivado.
 
 I am well used to Windows OS as well as love to explore Linux OS for the practical application purposes.
 
-Apart from this, I am recently being involved in some machine learning and reinforcement learning algorithms and models to help grow my curiosity as well as my skill set. 
+Apart from this, I am recently being involved in some machine learning and reinforcement learning algorithms for VLSI to help grow my curiosity as well as my skill set in the domain. 
 
-Activities
+Hobbies
 ======
-  I have worked as a __Joint Secretary__ in the Physics Association at NIT Warangal, where we were involved in organizing events and co-curricular activities such as tech-fests(Technozian 2022), exhibitions and talk-shows. 
+  As I do like being with people and serving community, I always headed to joining such group of individuals around myself leading to being a part of __NSS, NIT Warangal__ as well as interned at __SAMBHAJ NGO__ during my leisure time.
 
-  As I do like serving and being with people, I always headed to joining such group of individuals around myself. I was a part of __NSS, NIT Warangal__ as well as served as a social work __intern at SAMBHAJ NGO__ during my leisure time.
+  I love to spend my time exploring things related to cosmic physics as well as reading books for the same. (You can check one of my recent favorites "Brief Answers to the Big Questions" :D )
 
-Summary
+  Beyond my professional and academic pursuits, I am an avid Formula 1 enthusiast. The precision, strategy, and innovation in F1 racing inspire my approach to engineering challenges. (We can always have a talk on this, ynk! XD Forza Ferrari! )
+
+Thank You!
 ======
-Indeed, I am an analytic and solution-oriented individual with a large chunk of curiosity in technology field. Apart from professional life, I love to spend my time exploring new things and new people as a hobby.
-Thank you for the patience till the end. 
+I am an independent, analytical, and solution-oriented individual driven by a profound curiosity for emerging technologies. My solid foundation in VLSI technology and advanced CMOS systems, combined with my collaborative spirit, fuels my commitment to continuous learning and innovation.
+
+I deeply value cultural diversity, which has broadened my personal and professional perspectives and fostered a generous and inclusive approach to all my endeavors.
+
+Thank you for taking the time to learn about me. I look forward to connecting with like-minded professionals and contributing to advancements in electronics and VLSI technology.
 
 Gallery
 ======
