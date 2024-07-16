@@ -1,5 +1,5 @@
 ---
-title: "8086 MICROPROCESSOR AND INTERFACING"
+title: "8086 MICROPROCESSOR AND ITS INTERFACING"
 excerpt: "NIT Warangal"
 collection: portfolio
 ---
