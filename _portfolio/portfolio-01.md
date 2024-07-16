@@ -1,6 +1,6 @@
 ---
 title: "Physical Design Optimization and Timing Analysis of RISC-V Processor Using OpenLane"
-excerpt: "VSD Workshop <br/><img src='/images/Hybrid6TSRAMLayout3D.png' style='width: 400px;'>"
+excerpt: "VSD Workshop <br/><img src='/images/VSD_PD_Github.png' style='width: 400px;'>"
 collection: portfolio
 ---
 <div style="display: flex; justify-content: center;">
