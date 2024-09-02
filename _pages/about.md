@@ -32,9 +32,9 @@ Hobbies
 ======
   As I do like being with people and serving community, I always headed to joining such group of individuals around myself leading to being a part of __NSS, NIT Warangal__ as well as interned at __SAMBHAJ NGO__ during my leisure time.
 
-  I love to spend my time exploring things related to cosmic physics as well as reading books for the same. (You can check one of my recent favorites "Brief Answers to the Big Questions" :D )
+  I love to spend my time exploring things related to cosmic physics as well as reading books for the same. (You can check one of my recent favorites "Brief Answers to the Big Questions")
 
-  Beyond my professional and academic pursuits, I am an avid Formula 1 enthusiast. The precision, strategy, and innovation in F1 racing inspire my approach to engineering challenges. (We can always have a talk on this, ynk! XD Forza Ferrari! )
+  Beyond my professional and academic pursuits, I am an avid Formula 1 enthusiast. The precision, strategy, and innovation in F1 racing inspire my approach to engineering challenges. (We can always have a talk on this!)
 
 Thank You!
 ======
