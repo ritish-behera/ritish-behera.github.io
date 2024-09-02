@@ -10,7 +10,7 @@ collection: portfolio
     </figure>
     <figure>
         <img src='/images/2D_SRAM_LayoutGithub.png' style="width: 100%;">
-        <figcaption style="text-align: center;">2D Layout Model</figcaption>
+        <figcaption style="text-align: center;">2D Layout Model For BEOL Integration</figcaption>
     </figure>
 </div>
 
