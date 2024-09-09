@@ -1,5 +1,5 @@
 ---
-title: "Implemention of a 12-Hour Clock System on an FPGA Board using Verilog and Custom GDS Layout Generation of the Design"
+title: "Implemention of a 12-Hour Clock System on an FPGA Board using Verilog and GDS Layout Generation of the Design"
 excerpt: "NIT Warangal<br/><img src='/images/FPGA12hourClockGithub.jpg' style='width: 400px;'>"
 collection: portfolio
 ---
@@ -10,7 +10,7 @@ Utilizing the resources of the FPGA board, the project focused on synchronizing 
 
 One significant challenge encountered was coordinating the activation of different seven-segment displays based on the current time. This was successfully addressed by dynamically enabling/disabling display segments to depict the appropriate digits at each time interval, ensuring accurate time representation.
 
-Afterwards, I have moved to use the design for tapeout through open-source Sky130nm technology node with complete RTL to GDS flow, via a project called "Tiny Tapeouts" which takes the generated GDSII file to fabricate the design on their board.
+Afterwards, I have moved to use the design for tapeout through open-source Sky130nm technology node with complete RTL to GDS flow, via a project called "Tiny Tapeouts" which takes the RTL code to tapeout ready design to be fabricted on their custom board.
 
 Find the design files [here](https://drive.google.com/drive/folders/1LUMGoMlJ5kE5TtMGXvKBaiLcMPR9-IhW?usp=sharing).
 
