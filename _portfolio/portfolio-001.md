@@ -15,7 +15,7 @@ Tools Used:
 - Ngspice for circuit simulations
 - Xschem for schematic capture
 
-The github repo can be viewed [here]([https://github.com/ritish-behera/VSD-PhysicalDesign](https://github.com/ritish-behera/7nm-FinFET-Inverter-Characterization?tab=readme-ov-file)).
+The github repo can be viewed [here](https://github.com/ritish-behera/7nm-FinFET-Inverter-Characterization).
 
 
 <figure style="margin-right: 20px;">
