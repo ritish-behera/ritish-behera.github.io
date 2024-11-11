@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/layout_lab_github.jpg" alt="xyz" align="right" width="250">
-  Hi there! Thanks for hopping in, I am Ritish, a final year Master's in Sceince & Technology student in Engineering Physics with __Electronics__ specialization at National Institute of Technology Warangal, India. 
+  Hi there! Thanks for hopping in, I am Ritish, a final year Master's student in Engineering Physics with __Electronics__ specialization at National Institute of Technology Warangal, India. 
 
   My current work focuses on design and characterization of faster and area efficient __3D Hybrid SRAM__ cells with heterogeneous integration of Si and MoS2 based FETs, under the supervision of Prof. V. Narendar sir. 
 
