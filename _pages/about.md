@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "\"If everything you try works, you aren't trying hard enough.\" - Gordon Moore"
+title: "\"Welcome!\" "
 author_profile: true
 redirect_from: 
   - /about/
